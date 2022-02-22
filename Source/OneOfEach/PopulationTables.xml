@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<populations>
+	<population Name="StiltTents_SE#3" Load="Replace">
+		<group Name="Table" Style="pickone">
+			<table Name="ChefTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_E#0">
+		<group Name="Table" Style="pickone">
+			<table Name="BookTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_E#1">
+		<group Name="Table" Style="pickone">
+			<table Name="DiskMerchantTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_NE#0">
+		<group Name="Table" Style="pickone">
+			<table Name="GunsmithTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_NE#1">
+		<group Name="Table" Style="pickone">
+			<table Name="GrenadierTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_N#0">
+		<group Name="Table" Style="pickone">
+			<table Name="ArmorerTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_N#1">
+		<group Name="Table" Style="pickone">
+			<table Name="GutsmongerTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_NW#0">
+		<group Name="Table" Style="pickone">
+			<table Name="GloverTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_NW#1">
+		<group Name="Table" Style="pickone">
+			<table Name="ShoemakerTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_W#0">
+		<group Name="Table" Style="pickone">
+			<table Name="HatterTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_W#1">
+		<group Name="Table" Style="pickone">
+			<table Name="HaberdasherTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_SW#0">
+		<group Name="Table" Style="pickone">
+			<table Name="JewelerTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_SW#1">
+		<group Name="Table" Style="pickone">
+			<table Name="AppleTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_S#0">
+		<group Name="Table" Style="pickone">
+			<table Name="WineTent" />
+		</group>
+	</population>
+
+	<population Name="StiltTents_S#1">
+		<group Name="Table" Style="pickone">
+			<table Name="HoneyTent" />
+		</group>
+	</population>
+</populations>

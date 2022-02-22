@@ -1,0 +1,10 @@
+{
+	"id": "OneOfEach",
+	"loadorder": 1,
+	"title": "One of Each",
+	"description": "Greatly increases the likelihood of a merchant of each kind spawning in the Stiltgrounds.",
+	"tags": "Stable,NPC,Settlement",
+	"version": "0.1.0",
+	"author": "Gabor Soos",
+	"previewImage": "preview.png"
+}
